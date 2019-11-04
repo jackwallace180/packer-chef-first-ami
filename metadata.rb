@@ -1,4 +1,4 @@
-name 'node'
+name 'node_2'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'

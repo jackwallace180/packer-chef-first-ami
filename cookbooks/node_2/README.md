@@ -1,0 +1,3 @@
+# Nginx
+
+- Install nginx service
